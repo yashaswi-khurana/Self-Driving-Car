@@ -1,2 +1,2 @@
 # Python
-This is my python learnings
+In This Repo, I'll be uploading my python learnings

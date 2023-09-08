@@ -7,4 +7,6 @@ for i in k:
         h=h+i
     else:
         continue
-print("The longest common subsequence without vowels is:",h)
+k=h.split(' ')
+ma=max(k,key =len)
+print("This is largest subsequence: ",ma)

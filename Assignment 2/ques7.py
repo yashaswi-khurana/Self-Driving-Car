@@ -4,7 +4,7 @@ def function():
     count=0
     for elem in lst1:
             if (elem=="Dog" or elem=="dog" or elem=="dog." or elem=="Dog."):
-                count+=count
+                count+=1
     return count
 count = function()
 if(count==0):
